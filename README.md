@@ -1,9 +1,8 @@
-# movietrailerswebsite
-Entertainment_center.py hosts the movies and their information. You can add more movies to the trailer website here. 
+This project is a movies trailers website. It contains three files:
+entertainment_center.py includes the links to the movie trailers
+media.py includes the class structure for each movie
+fresh_tomatoes.html includes the html to format the movie trailers website
 
+To run the program launch fresh_tomatoes.html in your browser
 
-Media.py contains the class template for the movies. You can add extra attributes you want to provide about the movies here. 
-
-Fresh_Tomatoes launches an html file to preview the code in
-
-Find the code at work here: file:///Users/saraallen/Desktop/movies/fresh_tomatoes.html
+Copyright Sara Allen 2015
