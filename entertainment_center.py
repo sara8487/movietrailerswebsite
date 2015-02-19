@@ -1,6 +1,7 @@
 import fresh_tomatoes
+###fresh_tomatoes is the html file for the movie trailers website
 import media
-
+###launches movie trailers
 
 Toy_Story = media.Movie("Toy Story",
                         "A story of a boy and his toys that come to life",
@@ -43,6 +44,6 @@ Finding_Nemo = media.Movie("Finding_Nemo",
                         "https://www.youtube.com/watch?v=gcwv1Gflh4Q")
 #print (Finding.Nemo)
 #Finding_Nemo.show trailer ()
-
+###Clicking on a trailer poster will open the Youtube trailer on the same page
 movies =[Toy_Story,Avatar,Beauty_and_the_Beast,Lion_King,UP,Finding_Nemo]
 fresh_tomatoes.open_movies_page (movies)
